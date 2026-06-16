@@ -38,7 +38,8 @@ This project analyzes sales performance across different regions and product cat
 
 ## Project Screenshots
 
-(Add dashboard screenshot here)
+<img width="552" height="525" alt="Dashboard_Screenshot png" src="https://github.com/user-attachments/assets/18f4f1d4-f5d3-4dba-8f85-fc5ed713ab23" />
+
 
 ## Author
 Praveen S
